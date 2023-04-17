@@ -1,0 +1,48 @@
+# ディレクトリ
+node_modules/
+build/
+dist/
+__pycache__/
+venv/
+
+# ファイル
+*.log
+*.tmp
+*.env
+*.swp
+*.swo
+*.swn
+*.pyc
+*.pyo
+*.DS_Store
+*.lock
+
+# macOS Finder
+.DS_Store
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+/Pods
+
+# Carthage
+Carthage/Build
+
